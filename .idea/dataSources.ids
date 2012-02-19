@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails sample_app: development" product="" version="" jdbc-version="" driver-version="" uuid="a54f3c99-344e-4a9b-bebb-222724d2ad1f">
+    <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+    <jdbc-url>jdbc:postgresql://127.0.0.1/sample_app_dev</jdbc-url>
+    <user-name>postgres</user-name>
+    <user-password>dfdedfdcdfcbdfc1df93df9fdf9f</user-password>
+    <libraries>
+      <library>
+        <url>file://$USER_HOME$/.RubyMine32/config/jdbc-drivers/postgresql-driver-license.txt</url>
+      </library>
+      <library>
+        <url>jar://$USER_HOME$/.RubyMine32/config/jdbc-drivers/postgresql-9.1-901.jdbc4.jar!/</url>
+      </library>
+    </libraries>
+  </data-source>
+  <data-source source="LOCAL" name="Rails sample_app: test" product="" version="" jdbc-version="" driver-version="" uuid="bd07d890-6172-4c87-916b-079c4f830318">
+    <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+    <jdbc-url>jdbc:postgresql:sample_app_test</jdbc-url>
+    <libraries>
+      <library>
+        <url>file://$USER_HOME$/.RubyMine32/config/jdbc-drivers/postgresql-driver-license.txt</url>
+      </library>
+      <library>
+        <url>file://$USER_HOME$/.RubyMine32/config/jdbc-drivers/postgresql-9.1-901.jdbc4.jar</url>
+      </library>
+    </libraries>
+  </data-source>
+</component>
